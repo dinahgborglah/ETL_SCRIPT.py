@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,gender,product_id,product_name,unit_price,quantity,discount%,order_date
+1,Kerrie,Gianetti,kgianetti0@ustream.tv,Female,03a3082e-50d0-4955-a430-44094cebf489,Baby Monitor,79.99,2,2,28/06/2024
+2,Hanni,Nehls,hnehls1@ft.com,Female,629ea856-ac67-4b5b-803a-d3ccde058223,Vegan Chickpea Salad,3.99,1,2,09/09/2024
+3,Jorey,Pietrzyk,jpietrzyk2@hud.gov,Female,b4d0f34c-e7a1-416f-8529-01a185388918,Buffalo Cauliflower Bites,6.29,9,2,20/07/2024
+4,Shalom,Ingall,singall3@cdc.gov,Male,6d4c4db5-18a1-411c-ad18-d8b66fd5f969,Travel Hair Straightener,29.99,1,2,15/07/2024
+5,Yanaton,Cushelly,ycushelly4@unc.edu,Male,40961be0-41f5-41d0-a827-f88cd7b80ba0,Yoga Blocks,29.99,2,2,20/01/2025
+6,Hirsch,Birden,hbirden5@state.gov,Male,55b38fcb-fea2-4d2a-a8b3-75bcc0f30708,Sun Protection Clothing,44.99,9,2,17/09/2024
+7,Alla,Casino,acasino6@geocities.com,Female,6a23977a-51ff-4563-a0ec-6f7ebe9be3de,Portable Massage Gun,79.99,6,2,05/10/2024
+8,Juliana,Petrolli,jpetrolli7@noaa.gov,Female,bb199351-debd-4c8b-8bf3-05e5718df9db,Adjustable Standing Desk,299.99,5,2,21/06/2024
+9,Barbaraanne,O'Cosgra,bocosgra8@hubpages.com,Female,c50bb58b-ab1d-4d7c-96eb-4e7b0e41c1e3,Mini Air Hockey Table,39.99,8,2,06/08/2024
+10,Lory,Andreazzi,landreazzi9@naver.com,Female,bdec6dce-0e84-451d-8f56-98687ef1a79d,Chickpea Pancakes,4.99,1,2,13/12/2024
+11,Odette,Nalder,onaldera@shareasale.com,Polygender,75d44437-2f65-4d9d-9154-c7f4d6438fc0,Peach Halves (canned),2.49,3,2,22/03/2025
+12,Weston,Farreil,wfarreilb@pagesperso-orange.fr,Genderfluid,1e05c67d-eca9-49e9-84ae-f35569809dc3,Trackpad for Laptop,49.99,3,2,08/05/2025
+13,Quill,Weatherburn,qweatherburnc@yahoo.co.jp,Male,3905e594-8ce0-46b9-82fe-8ae30cd52414,Travel Beach Blanket,29.99,8,2,29/07/2024
+14,Alvy,Beneze,abenezed@cyberchimps.com,Male,d9d6817d-c211-4321-9597-76c96b6b4b91,Waffle Maker,39.99,5,2,11/03/2025
+15,Cinnamon,Vassar,cvassare@rambler.ru,Female,f1ba06d8-5274-41d1-ba86-a86e60175faa,Underwater Camera,199.99,5,,29/05/2025
+16,Lucita,Bricham,lbrichamf@mail.ru,Female,6ae67b5e-b8cd-4cb5-869c-f33181cd7474,Ceramic Planter Set,39.99,5,2,24/01/2025
+17,Orazio,Daulby,odaulbyg@imageshack.us,Male,fabd612c-3759-4c89-8496-1f5bc7bfea0f,Miso Dressing,3.49,10,2,28/08/2024
+18,Stella,Sidgwick,ssidgwickh@biglobe.ne.jp,Female,ec93c374-56ef-4217-8655-403a304e3a41,Electric Knife,39.99,1,2,08/04/2025
+19,Shaun,Hurle,shurlei@skyrock.com,Male,45c1f7ce-db54-4aeb-b169-c29e38694c39,Cabbage Slaw Mix,2.29,10,2,29/03/2025
+20,Daffie,Ghilks,dghilksj@technorati.com,Female,eaf32e82-352d-4104-aecc-34f83eab371b,Plant Growing Kit,22.99,7,2,21/05/2025
+21,Opalina,Killford,okillfordk@mtv.com,Female,e1374440-6b8f-43d4-9732-a913c7aab1b1,Insulated Wine Tote,24.99,10,2,01/12/2024
+22,Di,Rampley,drampleyl@ning.com,Female,755770e5-20d0-4121-8c02-dc846e438ac6,Acoustic Guitar,199.99,6,2,30/11/2024
+23,Chlo,Durman,cdurmanm@privacy.gov.au,Female,633213d0-8dba-4b3c-bbcb-ffccec435815,Pet Grooming Brush,19.99,10,2,15/11/2024
+24,Thorn,Seiffert,tseiffertn@creativecommons.org,Male,5477767d-48ba-45b2-982d-031d3bfab864,Fried Rice,4.29,3,2,18/05/2025
+25,Darcy,Gouth,dgoutho@merriam-webster.com,Male,5e7ae6da-1c19-454f-8cb1-74c36ab3503b,Board Game,34.99,10,2,02/08/2024
+26,Ross,Latchford,rlatchfordp@ifeng.com,Male,ab743d9d-aa5e-4a67-a8de-cb26bc8621c8,Almond Joy Munch Bars,1.39,4,2,20/09/2024
+27,Brody,Loades,bloadesq@weebly.com,Male,fe1761f8-68f0-4a77-944f-d4156c6fd3fa,Cucumber Relish,3.39,1,2,21/09/2024
+28,Lucas,Sellack,lsellackr@google.com.au,Male,1fe69784-dd69-4153-8473-fecc8757cfc7,Utility Cargo Pants,54.99,8,2,27/08/2024
+29,Kaylee,Bosward,kboswards@wikimedia.org,Female,652155f1-a47c-4991-b9b9-fe379269dde8,Avocado Oil,8.49,10,2,16/07/2024
+30,Trey,Pottery,tpotteryt@oracle.com,Male,f20b8cfc-d7a8-490c-aabb-c3b415ee983b,Peanut Butter Pretzel Bites,4.19,2,2,21/12/2024
+31,Lettie,Woodcock,lwoodcocku@histats.com,Female,a5ce6265-a19e-4bb2-b9df-eaf19d257889,Handheld Vacuum,79.99,4,2,14/02/2025
+32,Grete,Dicey,gdiceyv@abc.net.au,Female,918e8510-1b50-404e-98b2-ccd7cbb16041,Gardening Fairy Figurines,14.99,2,2,08/07/2024
+33,Cecilio,Tabary,ctabaryw@cdbaby.com,Genderqueer,8dbdfc72-ce80-4212-86ef-e9482d8ef762,Electric Heat Pad,24.99,1,2,09/09/2024
+34,Rubin,Cowdroy,rcowdroyx@ucsd.edu,Male,740caf61-74f0-4be4-b15a-c8eaa99349b2,Artisan Bread,4.59,4,2,07/08/2024
+35,Carmela,Gilardone,cgilardoney@youtu.be,Female,96bca845-d1d6-4867-ad13-e06b3383fea7,Magnetic Spice Containers,24.99,8,2,07/01/2025
+36,Jean,Daines,jdainesz@irs.gov,Male,92da0229-6b98-4ac0-909f-eac075e4aaca,Digital Food Scale,22.99,9,2,05/08/2024
+37,Nickolaus,Raffeorty,nraffeorty10@ted.com,Male,1dc3387c-6dca-4fd3-99e7-6b2b516b5622,Black Bean Salsa,3.49,6,2,04/03/2025
+38,Erena,Janeway,ejaneway11@ustream.tv,Female,db9c6d37-9670-49b2-b73f-93d71f35d2ab,Spinach and Cheese Quiche,5.49,1,2,26/09/2024
+39,Melessa,Atcock,matcock12@ox.ac.uk,Female,8b42e98e-d7d2-4443-af02-690c420c4b31,Silicone Wine Glasses,22.99,6,2,10/01/2025
+40,Geneva,Rosenkranc,grosenkranc13@phpbb.com,Female,eb54f553-8f8d-4a71-8c76-f2d633635fd3,Chipotle Lime Salsa,3.99,5,2,20/01/2025
+41,Shanda,Hay,shay14@fema.gov,Female,8acf4150-7534-4ece-b63d-bb6a92eb0370,Magnetic Phone Case,19.99,8,2,11/09/2024
+42,Christiane,Rainon,crainon15@bandcamp.com,Female,18e08bcf-467f-4baf-8b8c-b208f4644cbf,Fitbit Activity Tracker,99.99,3,2,18/01/2025
+43,Jorgan,Gierardi,jgierardi16@cnn.com,Male,12d4e420-6e29-43ce-93ba-4d8b96360033,Wireless Car Charger,24.99,7,2,10/07/2024
+44,Deena,Corradeschi,dcorradeschi17@google.it,Female,8196d078-6306-408d-955b-cbbb6bd8bca3,Fitness Tracker with Heart Rate Monitor,59.99,4,2,01/12/2024
+45,Shell,Hanse,shanse18@va.gov,Female,59b7bda4-2e51-4b92-b750-91474c01b084,Inspirational Wall Art,24.99,7,2,13/05/2025
+46,Griz,Parham,gparham19@prnewswire.com,Male,430b5c0b-dfb3-4b3b-a955-ad3baedb259a,Grilled Veggie Burgers,6.29,9,,24/03/2025
+47,Annabela,Heatly,aheatly1a@blog.com,Female,72b7c2ec-7bf5-4487-b9b6-d43b1aaaeb7d,Italian Meatballs,8.49,9,2,21/01/2025
+48,Dela,Hurtado,dhurtado1b@cnet.com,Non-binary,a4fb4b41-e6c1-4cd9-8d45-aae30e34afa3,Essential Oil Diffuser,34.99,4,2,23/02/2025
+49,Adolpho,Kirkham,akirkham1c@liveinternet.ru,Male,8becdcb7-f643-4a8c-9a2a-e7b1b5f2c933,LED Strip Lights,19.99,7,2,18/05/2025
+50,Randy,Laughrey,rlaughrey1d@goodreads.com,Agender,594ba131-f00c-4b9f-ba15-0cca6f02d533,Eco-Friendly Disposable Plates,22.99,2,2,25/10/2024
+51,Brandice,Corringham,bcorringham1e@meetup.com,Female,aa67ecb1-b4ef-472c-96d7-2e641eae0e30,Customizable Wall Calendar,24.99,1,,27/01/2025
+52,Fitz,Batham,fbatham1f@gizmodo.com,Male,a77ab604-f3c4-457e-8fd1-70bbcba9f5e4,Outdoor Fire Pit,149.99,10,,07/11/2024
+53,Kliment,Sacaze,ksacaze1g@gizmodo.com,Male,9afa3506-5417-46b1-b9df-edda37ed8fbe,Smart Water Bottle with Hydration Reminder,39.99,2,2,16/01/2025
+54,Tuck,Shetliff,tshetliff1h@acquirethisname.com,Male,46d4aa77-e0ff-4c89-a2c3-bdb9d3f059eb,Almond Coconut Granola,3.99,3,2,26/01/2025
+55,Marsha,Balchin,mbalchin1i@cargocollective.com,Female,1193d929-1d1a-4962-9c86-549a03957e2c,Blue Corn Tortilla Chips,3.49,2,2,01/06/2025
+56,Lee,Craigmile,lcraigmile1j@g.co,Female,1e4a6774-8b63-4d24-9d29-7889de9f6481,Buttermilk Pancakes,3.99,8,2,07/12/2024
+57,Morgen,Garron,mgarron1k@admin.ch,Female,b01dee6f-2a24-4dce-826c-6313371f9d0e,Ice Cube Tray with Lid,10.99,5,,01/07/2024
+58,Thekla,Colbourn,tcolbourn1l@tmall.com,Female,6375d0d9-8be7-4b3a-86c4-e209f9820227,Cranberry Almond Granola,4.29,10,,07/06/2024
+59,Bebe,Sedgebeer,bsedgebeer1m@ow.ly,Female,6e2ffe0a-95ad-4d53-a351-dabbc5d60f9c,Turkey Bacon,3.99,7,2,17/05/2025
+60,Emmerich,Yurmanovev,eyurmanovev1n@alexa.com,Male,f4785d34-b870-4c0a-b1eb-fe7fdf83b7da,Smartphone Projector Kit,24.99,8,2,17/07/2024
+61,Lesli,Hackett,lhackett1o@google.com.hk,Female,26f699c9-a043-460e-8eae-c4c9de3cdd5c,Gluten-Free Brownies,4.99,2,2,12/02/2025
+62,Hilary,Allingham,hallingham1p@opera.com,Female,0a5d5ce2-fb38-425f-9b35-70f969f07eb4,LED Flashlight,19.99,7,,06/07/2024
+63,Eachelle,Hawk,ehawk1q@so-net.ne.jp,Genderqueer,c16a021d-5f5d-4f97-bda7-2d187c66cd45,Self-Stirring Mug,19.99,1,2,09/02/2025
+64,Noreen,Costellow,ncostellow1r@ifeng.com,Agender,d63e55ab-0623-4273-b2e8-5978b648b2e9,Gluten-Free Bread,5.49,9,2,24/12/2024
+65,Nathalia,Kingescot,nkingescot1s@paginegialle.it,Female,91376d0b-502c-4701-8943-86c633680af8,Pumpkin Spice Latte Mix,3.29,5,2,04/02/2025
+66,Skippie,Peeters,speeters1t@tripod.com,Male,e5d2b194-4ac6-4818-baa4-74d54347f163,Deep Tissue Massage Gun,89.99,10,2,09/04/2025
+67,Holt,McCromley,hmccromley1u@arizona.edu,Male,354b5986-8e9d-4a41-9645-985173721b9c,Pecan Nuts,6.49,4,2,26/09/2024
+68,Jinny,Wannan,jwannan1v@businessweek.com,Female,238be490-2777-4b7d-96ee-cbf3e5a55a8d,Ground Turkey,5.49,4,2,14/09/2024
+69,Milly,Ordemann,mordemann1w@miibeian.gov.cn,Bigender,aa4e4a6d-871c-4eb8-bb8e-28707d0facb0,Coconut Milk,2.49,5,2,10/09/2024
+70,Dare,Twinn,dtwinn1x@cbslocal.com,Genderfluid,6c95de42-2891-4138-9c44-e48c7f3c52c9,Portable Phone Charger,29.99,1,2,06/01/2025
+71,Roselin,Vasyukhichev,rvasyukhichev1y@salon.com,Female,f88d5397-9804-4aba-9c88-f54325727321,Sliced Provolone Cheese,3.99,8,,13/06/2024
+72,Gelya,Hamilton,ghamilton1z@adobe.com,Genderqueer,e3409fd7-092b-4209-9f3a-2684acaa00f7,Beard Grooming Kit,34.99,10,2,15/09/2024
+73,Dionisio,Cocksedge,dcocksedge20@vimeo.com,Male,66e0912d-b768-4281-beaa-ca7a33633b78,Memory Foam Mattress Topper,109.99,8,,16/03/2025
+74,George,Rearie,grearie21@miitbeian.gov.cn,Male,f9faa5f4-c4a3-4c01-a060-5a976bf86989,Adjustable Laptop Desk,59.99,7,2,21/04/2025
+75,Bartholomeo,Heasley,bheasley22@flavors.me,Genderfluid,0db7b783-fe28-4f5e-b1b3-7b27114ae1ba,Jalapeño Cornbread,3.29,3,2,03/11/2024
+76,Maryjane,Giannassi,mgiannassi23@uiuc.edu,Female,b02359fc-fc7c-4203-a8ee-c039a2070539,Smartphone Gimbal,89.99,4,2,10/01/2025
+77,Ondrea,Clutterham,oclutterham24@bing.com,Female,577a43dd-8826-4edf-95c0-fe92c7a37d1e,Professional Chef Knife,89.99,5,2,10/09/2024
+78,Shay,Speaks,sspeaks25@4shared.com,Female,1ac74a6e-8248-4172-bb02-dd6ddb5ad2a4,Vegetable Stir-Fry Sauce,3.49,10,2,15/08/2024
+79,Delano,Weins,dweins26@slashdot.org,Male,53513e46-c5d0-469b-b96c-b40961ffb4f7,Ground Turkey,5.49,10,,08/04/2025
+80,Zaccaria,Farnes,zfarnes27@columbia.edu,Male,a484e37a-770f-401c-b44c-17448196172a,Puzzle Game Set,34.99,2,2,02/12/2024
+81,Wallace,Caccavella,wcaccavella28@flickr.com,Male,8d58a4d6-14de-4077-887d-fd6eb406eb57,Mango Chili Salsa,4.29,4,,12/03/2025
+82,Gipsy,McGrouther,gmcgrouther29@google.co.uk,Genderfluid,66692990-53df-4133-9b00-ddd3cfd635b8,Canned Black Beans,1.29,1,2,25/07/2024
+83,Katey,Brignell,kbrignell2a@plala.or.jp,Female,0dde265b-3952-434a-9ebb-dcd820dde90d,Whole Grain Cereal,3.49,6,2,09/09/2024
+84,Orelia,Ticic,oticic2b@woothemes.com,Polygender,5f1a653b-e770-4888-a980-0a52865e2d08,Chopping Board,29.99,6,2,28/11/2024
+85,Bendite,Farris,bfarris2c@storify.com,Female,7d151fc4-de1f-480d-bc68-4f8489aee8b2,Cordless Electric Screwdriver,39.99,1,2,24/02/2025
+86,Dotty,Saward,dsaward2d@instagram.com,Female,c4326ea2-7c95-4f0d-93e7-e932f81d4618,Nordic Berry Smoothie,3.99,7,2,11/05/2025
+87,Felipa,Mariyushkin,fmariyushkin2e@moonfruit.com,Genderfluid,19e6227a-e243-4224-a774-ed1df6a3bd23,Electric Hot Pot,49.99,6,2,20/11/2024
+88,D'arcy,Zamora,dzamora2f@w3.org,Bigender,21c76cd5-3733-4310-a933-842ae432e0f2,Chopping Board,29.99,1,2,24/05/2025
+89,Lorry,Sorrel,lsorrel2g@slideshare.net,Male,b61e8968-9f9b-454f-8549-a2e00bcdc22e,Electric Food Slicer,99.99,8,2,27/12/2024
+90,Devondra,Jephson,djephson2h@forbes.com,Female,13df006e-256c-4d4a-a60a-c4321e81302b,Fresh Strawberries,3.99,3,2,22/09/2024
+91,Juli,Cahill,jcahill2i@livejournal.com,Female,eb8571f8-9ad0-4a06-8688-487fc86db0d4,Compressed Towel Tablets,12.99,1,2,02/02/2025
+92,Gaylord,Bladder,gbladder2j@bigcartel.com,Male,ca8acc34-3157-4511-ac9f-4405b662be80,Floral Summer Dress,39.99,6,2,19/02/2025
+93,Debor,Fobidge,dfobidge2k@sfgate.com,Genderqueer,95438428-3133-4ce3-b816-178c9e65ed97,Cranberry Citrus Sauce,3.99,5,2,14/01/2025
+94,Katusha,Littrick,klittrick2l@virginia.edu,Female,05381280-349a-42f6-8372-dcb2b6b31940,Sushi Roll Kit,9.99,4,2,23/11/2024
+95,Molly,Pohlak,mpohlak2m@google.cn,Bigender,b3a7bf50-3666-4a17-bd86-7e26947a5397,Rustic Italian Bread,3.59,8,2,28/12/2024
+96,Tori,Girauld,tgirauld2n@intel.com,Female,447fb6dc-363f-423a-a8df-7bbdcb5f1325,Camping Chair,29.99,7,2,01/07/2024
+97,Prudi,Askaw,paskaw2o@auda.org.au,Female,2ecd001b-2b15-4690-a94c-1b50198a5fcb,Gaming Headset,69.99,7,2,05/08/2024
+98,Lissie,Hrinchenko,lhrinchenko2p@ucla.edu,Female,0af8b85a-4924-4fe3-8f8a-8ca0d5cdb16b,Non-Stick Grill Pan,39.99,2,2,22/06/2024
+99,Lauritz,Rebbeck,lrebbeck2q@photobucket.com,Male,1c90478a-da77-470b-b231-c42512d2a115,Plant-Based Protein Bars,19.99,10,,22/10/2024
+100,Terri,Filimore,tfilimore2r@w3.org,Male,0f85c4ec-fa47-4418-9f96-1d3f3a6c32e0,Raspberry Tart,5.49,4,,29/03/2025
